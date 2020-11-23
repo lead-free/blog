@@ -1,6 +1,7 @@
-baseURL = "stansotn.github.io"
+baseURL = "https://stansotn.github.io"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
+canonifyURLs = false
 # language code
 languageCode = "en"
 title = "Stanislav Sotnikov"
@@ -34,7 +35,7 @@ theme = "LoveIt"
   #  LoveIt theme version
   version = "0.2.X"
   # site description
-  description = "This is My New Hugo Site"
+  description = "welcome to stan."
   # site keywords
   keywords = ["Theme", "Hugo"]
   # site default theme ("light", "dark", "auto")
