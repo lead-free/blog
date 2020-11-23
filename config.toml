@@ -174,7 +174,7 @@ theme = "LoveIt"
   # Social config about the author
   [params.social]
     Email = "ssotnikov@ccny.cuny.edu"
-    GitHub = "lead-free"
+    GitHub = "stansotn"
     Flickr = "sl-vision"
     Spotify = "3cs4skvjc6a3neql3o0mtqpnb?si=jZNOT5JuQVSe2Ew0ehQQpA"
     Linkedin = ""

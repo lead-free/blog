@@ -1,6 +1,6 @@
 [submodule "themes/LoveIt"]
 	path = themes/LoveIt
-	url = https://github.com/lead-free/LoveIt.git
+	url = https://github.com/stansotn/LoveIt.git
 [submodule "public"]
 	path = public
-	url = https://github.com/lead-free/lead-free.github.io.git
+	url = https://github.com/stansotn/stansotn.github.io.git
